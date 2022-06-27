@@ -17,7 +17,7 @@
     "@types/styled-components": "^5.1.9",
     "aos": "^3.0.0-beta.6",
     "aos-animations": "^0.0.7",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^3.4.1",
     "framer-motion": "^4.1.17",
     "mdbreact": "^5.0.2",
