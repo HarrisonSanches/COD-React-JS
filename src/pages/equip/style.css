@@ -1,0 +1,50 @@
+.bloco-externo {
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  height: 80%;
+  align-content: center;
+  width: 90%;
+  /* padding: 10px; */
+  margin: auto;
+
+}
+
+.bloco-externo-title{
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  height: 10%;
+  align-content: center;
+  width: 10%;
+  padding: 10px;
+  margin: auto;
+
+}
+
+.bloco-interno {
+  /* display: flex; */
+  /* flex-direction: column; */
+    padding: 10px;
+
+}
+
+.boxes{
+  margin: 20px;
+  margin-top: 150px;
+  background-color: blue;
+  overflow: hidden;
+  height: 200px;
+  max-height: 35vh;
+  box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+  border-radius: 10px 10px 10px 10px;
+}
+
+.gridshs{
+  max-width: 50%;
+  margin: auto;
+}
+
+
+.txt_test {
+  align-content: center;
+  
+}
